@@ -1,0 +1,1 @@
+this repository contains an application that shows a list of posts, comments to them and the user’s page.
